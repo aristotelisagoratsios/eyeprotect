@@ -1,5 +1,5 @@
 # eyeprotect
-A WordPress project with the name Optically Poupnara!
+A eCommerce project with the name Optically Poupnara created with WordPress CMS!
 
 After a long activity in the field of optics, for over 50 years, a new cycle of operation began, with the creation of an online store. By adding e-shop, the company will offer products and services worldwide, directly and economically.
 
